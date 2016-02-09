@@ -6,5 +6,5 @@ This reference implementation of RCUE is based on [Bootstrap v2.3.2](http://getb
 
 ## Documentation
 
-See [http://uxd-rcue.rhcloud.com](http://uxd-rcue.rhcloud.com).
+See [https://rcue-uxd.itos.redhat.com/](https://rcue-uxd.itos.redhat.com/).
 
